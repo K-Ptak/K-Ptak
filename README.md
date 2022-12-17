@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning python and machine learning
 - ☕ Official coffee superfan
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wymiatocz)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wymiatocz&bg_color=000000)
