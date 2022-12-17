@@ -3,7 +3,7 @@
 🎓 Student of Silesian University of Technology
 
 - 🔭 I’m currently trying to learn kotlin 😵
-- 🌱 Future mobile app dev
+- 📱 Future mobile app dev
 - ☕ Official coffee superfan
 
 <br>
