@@ -8,7 +8,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=wymiatocz&color=9300c5)
+![](https://komarev.com/ghpvc/?username=K-Ptak&color=9300c5)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Ptak&border_color=9300c5&icon_color=9300c5&theme=radical&show_icons=true)
 <br>
