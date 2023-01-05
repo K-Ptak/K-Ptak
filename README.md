@@ -1,10 +1,14 @@
-### Hi there, I'm Kamil (he\him) 👋
+## Hi there, I'm Kamil (he\him) 👋
 
 🎓 Student of Silesian University of Technology
 
 - 🔭 I’m currently learning kotlin and jetpack compose
 - 📱 Future mobile app dev
 - ☕ Official coffee superfan
+
+### 🛠️ Languages and tools 🛠️
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,kotlin,java,python,cpp,php,bash)](https://skillicons.dev)
 
 <br>
 
