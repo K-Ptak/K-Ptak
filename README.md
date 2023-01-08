@@ -8,7 +8,7 @@
 
 ### 🛠️ Languages and tools 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,kotlin,java,python,cpp,php,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,kotlin,java,python,cpp,bash)](https://skillicons.dev)
 
 <br>
 
