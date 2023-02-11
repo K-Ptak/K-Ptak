@@ -1,4 +1,4 @@
-## Hi there, I'm Kamil (he\him) 👋
+## Hi there, I'm Kamil (he\him)👋
 
 🎓 Student of Silesian University of Technology
 
