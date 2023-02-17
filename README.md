@@ -8,7 +8,7 @@
 
 ### 🛠️ Languages and tools 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,kotlin,java,python,cpp,bash,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,kotlin,java,python,cpp,bash,latex,vim)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=K-Ptak&color=9300c5) 
 
