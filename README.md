@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently learning kotlin and jetpack compose
 - 📱 Future mobile app dev
+- 💻 Linux enthusiast
 - ☕ Official coffee superfan
 
 ### 🛠️ Languages and tools 🛠️
