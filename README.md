@@ -2,7 +2,7 @@
 
 🎓 Student of Silesian University of Technology
 
-- 🔭 I’m currently learning kotlin and jetpack compose
+- 🔭 I’m currently learning kotlin and android
 - 📱 Future mobile app dev
 - 💻 Linux enthusiast
 - ☕ Official coffee superfan
