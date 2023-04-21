@@ -2,8 +2,7 @@
 
 🎓 Student of Silesian University of Technology
 
-- 🔭 I’m currently learning kotlin and android
-- 📱 Future mobile app dev
+- 🔭 I’m currently learning kotlin and godot
 - 💻 Linux enthusiast
 - ☕ Official coffee superfan
 
