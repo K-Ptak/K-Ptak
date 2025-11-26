@@ -1,6 +1,7 @@
 ## Hi there, I'm Kamil 👋
 
 🎓 Current student of WSB Chorzów (IT Masters degree)
+
 🎓 Bachelor degree in practical computer science
 
 - 🔭 I’m currently learning godot
