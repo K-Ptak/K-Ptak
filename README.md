@@ -1,8 +1,9 @@
 ## Hi there, I'm Kamil 👋
 
-🎓 Student of Silesian University of Technology
+🎓 Current student of WSB Chorzów (IT Masters degree)
+🎓 Bachelor degree in practical computer science
 
-- 🔭 I’m currently learning kotlin and godot
+- 🔭 I’m currently learning godot
 - 💻 Linux enthusiast
 - ☕ Official coffee superfan
 
